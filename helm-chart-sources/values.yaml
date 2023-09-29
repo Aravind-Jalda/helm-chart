@@ -3,8 +3,8 @@
 # Declare variables to be passed into your templates.
 
 # Enter the number of pods required below
-uireplicaCount: uireplicaCountvalue
-jobreplicaCount: jobreplicaCountvalue
+uireplicaCount: 1
+jobreplicaCount: 1
 
 # Enter the resources allocation for ES and OE pods
 oeConfig:
