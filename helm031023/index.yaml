@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ovaldgehelmchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-10-03T06:56:52.505719+05:30"
+    description: A Helm chart for Kubernetes
+    digest: fb98215e822db370a38968f1c4c370b4cf5f659ea772af64c93a3dce2dba7b35
+    name: ovaldgehelmchart
+    type: application
+    urls:
+    - ovaldgehelmchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-10-03T06:56:52.505133+05:30"
